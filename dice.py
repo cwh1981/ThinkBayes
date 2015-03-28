@@ -12,7 +12,7 @@ class Dice(Suite):
     """Represents hypotheses about which die was rolled."""
 
     def Likelihood(self, data, hypo):
-        """Computes the likelihood of the data under the hypothesis.
+        """Computes the likelihood of the data under the hypothesis!!.
 
         hypo: integer number of sides on the die
         data: integer die roll
